@@ -1,0 +1,6 @@
+{
+  "name": "NeonStudio - AI Multimedia & Collaboration Suite",
+  "description": "All-in-one dark mode AI multimedia creation studio and real-time collaboration canvas with predictive scheduling, Three.js procedural cyber background, and multimodal Gemini intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
